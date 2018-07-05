@@ -15,7 +15,7 @@ License management
 ------------------
 
 Enterprise plugin require a valid license. When you start your first a node with the Enterprise plugin enabled, a 30 day license is generated with all feature enabled.
-If you need more time to evaluate the product, you can request for a free another 30 days trail license or purchase a souscription
+If you need more time to evaluate the product, you can request for a free another 30 days trail license or purchase a subscription
 including technical support for Elassandra. If your license expires, the enterprise plugin operates in a restricted mode until a valid
 license is installed.
 
